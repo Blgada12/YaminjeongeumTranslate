@@ -9,3 +9,7 @@
 ### first commit
 
 Konlpy 예제 분석
+
+### 거이 완료
+
+점수 체게 완성, gui 프로그래밍
